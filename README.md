@@ -28,3 +28,4 @@ The projects cover a range of topics, including:
 15. [Guess the Number](https://github.com/DCKaLpEsH/python_projects/tree/main/15-guess-the-number): A number guessing game where the user tries to guess a randomly generated number within a limited number of attempts.
 16. [Countdown Timer](https://github.com/DCKaLpEsH/python_projects/tree/main/16-countdown-timer): Implements a countdown timer that counts down from a user-specified number of seconds.
 17. [Simple Calculator](https://github.com/DCKaLpEsH/python_projects/tree/main/17-calculator): A simple calculator that performs basic arithmetic operations based on user input.
+18. [Related Word](https://github.com/DCKaLpEsH/python_projects/tree/main/18-related-word): A game where the user guesses a word related to a randomly generated prompt.
