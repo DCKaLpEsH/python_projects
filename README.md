@@ -29,3 +29,7 @@ The projects cover a range of topics, including:
 16. [Countdown Timer](https://github.com/DCKaLpEsH/python_projects/tree/main/16-countdown-timer): Implements a countdown timer that counts down from a user-specified number of seconds.
 17. [Simple Calculator](https://github.com/DCKaLpEsH/python_projects/tree/main/17-calculator): A simple calculator that performs basic arithmetic operations based on user input.
 18. [Related Word](https://github.com/DCKaLpEsH/python_projects/tree/main/18-related-word): A game where the user guesses a word related to a randomly generated prompt.
+19. [Memory Sequencer](https://github.com/DCKaLpEsH/python_projects/tree/main/19-memory-sequencer): A game where the user tries to remember a sequence of numbers.
+20. [Rock Paper Scissors](https://github.com/DCKaLpEsH/python_projects/tree/main/20-rock-paper-scissors): A game where the user plays rock paper scissors against the computer.
+21. [Task Manager](https://github.com/DCKaLpEsH/python_projects/tree/main/21-task-manager): A task manager that allows the user to add, edit, and delete tasks.
+22. [Basic Chatbot](https://github.com/DCKaLpEsH/python_projects/tree/main/22-basic-chatbot): A basic chatbot that can tell jokes, facts.

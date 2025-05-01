@@ -1,38 +1,38 @@
-# print("Hello World")
+print("Hello World")
 
-# # Strings
-# name = "Kalpesh"
+# Strings
+name = "Kalpesh"
 
-# # Integer (Whole Numbes)
-# age = 25
+# Integer (Whole Numbes)
+age = 25
 
-# # Float (Decimal Number)
-# height = 9.5
+# Float (Decimal Number)
+height = 9.5
 
-# # Boolean
-# is_student = True
+# Boolean
+is_student = True
 
-# print("Hey my name is " + name)
-# print("Hey my name is", name)
+print("Hey my name is " + name)
+print("Hey my name is", name)
 
-# print(name[-1])
+print(name[-1])
 
-# message = "hello world"
-# print(message.upper())
-# print(message.lower())
-# print(message.capitalize())
-# print(message.replace("l", "L"))
-# print("World" in message)  # False because python is case sensitive
-# print("world" in message)  # True
-# print(len(message))
+message = "hello world"
+print(message.upper())
+print(message.lower())
+print(message.capitalize())
+print(message.replace("l", "L"))
+print("World" in message)  # False because python is case sensitive
+print("world" in message)  # True
+print(len(message))
 
-# greeting1 = "Hello"
-# greeting2 = "hello"
+greeting1 = "Hello"
+greeting2 = "hello"
 
-# if (greeting1 == greeting2):
-#     print("They are same")
-# else:
-#     print("They are different")
+if (greeting1 == greeting2):
+    print("They are same")
+else:
+    print("They are different")
 
 
 # Type conversion
