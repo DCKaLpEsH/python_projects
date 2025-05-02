@@ -33,3 +33,8 @@ The projects cover a range of topics, including:
 20. [Rock Paper Scissors](https://github.com/DCKaLpEsH/python_projects/tree/main/20-rock-paper-scissors): A game where the user plays rock paper scissors against the computer.
 21. [Task Manager](https://github.com/DCKaLpEsH/python_projects/tree/main/21-task-manager): A task manager that allows the user to add, edit, and delete tasks.
 22. [Basic Chatbot](https://github.com/DCKaLpEsH/python_projects/tree/main/22-basic-chatbot): A basic chatbot that can tell jokes, facts.
+23. [Word Counter](https://github.com/DCKaLpEsH/python_projects/tree/main/23-word-counter): A word counter that counts the number of words, characters, and sentences in a user-input text.
+24. [Currency Converter](https://github.com/DCKaLpEsH/python_projects/tree/main/24-currency-converter): A currency converter that converts a user-input amount from one currency to another.
+25. [Password Generator](https://github.com/DCKaLpEsH/python_projects/tree/main/25-password-generator): A password generator that generates a random password based on user-specified criteria.
+26. [Personal Finance Tracker](https://github.com/DCKaLpEsH/python_projects/tree/main/26-personal-finance-tracker): A personal finance tracker that allows the user to track their income, expenses, and savings.
+27. [Quiz App](https://github.com/DCKaLpEsH/python_projects/tree/main/25-quiz-app): A quiz app that allows the user to take a quiz on a variety of topics.
