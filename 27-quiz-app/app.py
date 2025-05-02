@@ -1,5 +1,5 @@
 import requests
-
+import random
 def fetch_categories():
     try:
         url = "https://opentdb.com/api_category.php"
@@ -61,14 +61,17 @@ def start_quiz(questions):
 
     for question in questions:
         print(f"\n🎮 Question: {question['question']}")
-        for idx, option in enumerate(question['options'], 1):
+        options = question['incorrect_answers'] + [question['correct_answer']]
+        random.shuffle(options)
+
+        for idx, option in enumerate(options, 1):
             print(f"{idx}. {option}")
-        answer = get_user_answer(len(question['options']))
+        answer = get_user_answer(len(options))
         if answer == question['correct_answer']:
-            print("🎉 Correct! You earned 10 points!")
+            print("✅ Correct! You earned 10 points!")
             score += 10
         else:
-            print("❌ Incorrect. The correct answer is: {question['correct_answer']}")
+            print(f"❌ Incorrect. The correct answer is: {question['correct_answer']}")
 
     print(f"\n🎉 Quiz completed! Your score is: {score}/{total_questions}")
     if score >= 30:
@@ -86,6 +89,7 @@ def main():
     print(f"\n🎮 Selected Category: {selected_category['name']}")
     print(f"\n🎮 Fetching questions for {selected_category['name']}...")
     questions = fetch_questions(selected_category['id'])
+    print("QUESTIONS", questions)
     start_quiz(questions)
 
 main()
