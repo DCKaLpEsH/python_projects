@@ -38,3 +38,8 @@ The projects cover a range of topics, including:
 25. [Password Generator](https://github.com/DCKaLpEsH/python_projects/tree/main/25-password-generator): A password generator that generates a random password based on user-specified criteria.
 26. [Personal Finance Tracker](https://github.com/DCKaLpEsH/python_projects/tree/main/26-personal-finance-tracker): A personal finance tracker that allows the user to track their income, expenses, and savings.
 27. [Quiz App](https://github.com/DCKaLpEsH/python_projects/tree/main/25-quiz-app): A quiz app that allows the user to take a quiz on a variety of topics.
+28. [Pomodoro Timer](https://github.com/DCKaLpEsH/python_projects/tree/main/28-pomodoro-timer): A pomodoro timer that allows the user to track their time spent on a task.
+29. [Text Adventure Game](https://github.com/DCKaLpEsH/python_projects/tree/main/29-text-adventure-game): A text adventure game that allows the user to explore a world of adventure.
+30. [Tkinter Hello World](https://github.com/DCKaLpEsH/python_projects/tree/main/30-tkinter-hello-world): A tkinter hello world app that allows the user to see a hello world app.
+31. [Tkinter Calculator](https://github.com/DCKaLpEsH/python_projects/tree/main/31-tkinter-calculator): A tkinter calculator app that allows the user to perform basic arithmetic operations.
+32. [Tkinter Task Manager](https://github.com/DCKaLpEsH/python_projects/tree/main/32-tkinter-task-manager): A tkinter task manager app that allows the user to add, edit, and delete tasks.
